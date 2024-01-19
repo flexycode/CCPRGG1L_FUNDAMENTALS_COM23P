@@ -70,6 +70,7 @@ java ProgScanner
 
 ## Contributing
 
+
 ### Submitting Changes
 
 Contributions are welcome! If you have ideas for improvements or want to add more exercises, follow these steps:
