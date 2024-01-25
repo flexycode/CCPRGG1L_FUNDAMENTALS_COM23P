@@ -1,6 +1,8 @@
-# Java Fundamentals
+# FUNDAMENTALS OF PROGRAMMING
 
-## Overview
+### Java Fundamentals 
+
+### Overview
 
 This repository contains source code for a Java project that focuses on fundamental concepts and exercises. The code includes examples of input/output operations, arithmetic calculations, and basic Java syntax.
 
