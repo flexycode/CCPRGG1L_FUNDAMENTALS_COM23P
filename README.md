@@ -21,7 +21,7 @@ This repository contains source code for a Java project that focuses on fundamen
 4. [Contributing](#contributing)
    - [Submitting Changes](#submitting-changes)
    - [Reporting Issues](#reporting-issues)
-5. [License](#license)
+5. [License](#license) 
 
 ## Introduction
 
@@ -91,3 +91,23 @@ If you encounter any issues or have suggestions, please open an issue to let us 
 This project is licensed under the MIT License.
 
 Feel free to use this template as your README file for your Java project. Adjust the URLs, descriptions, and any other details to match your specific project information.
+
+# 📫Changelogs    
+## [1.0.0] - 2024-01-24    
+### Added
+- Uploaded the Exercise
+- Added breakdown and documentation
+-
+- 
+- 
+
+### Changed
+- 
+- 
+
+### Fixed
+- 
+-  
+
+#### [Back to Table of Content](#introduction)
+
