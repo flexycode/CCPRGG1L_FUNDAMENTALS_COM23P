@@ -1,5 +1,3 @@
-package Fundamentals;
-
 import java.util.Scanner;
 
 public class ProgScanner {

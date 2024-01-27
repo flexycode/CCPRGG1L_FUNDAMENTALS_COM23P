@@ -1,4 +1,3 @@
-package Fundamentals;
 import java.io.*;
 
 public class ProgBufferedReader {
