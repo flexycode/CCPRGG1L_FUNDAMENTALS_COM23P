@@ -7,16 +7,16 @@
 
 ## [Introduction](#introduction)
 This repository contains all of the java code implementations for each topic in the course outline for Computer Organization and Architecture
-
+ 
 Course Outline: https://nationalueduph.sharepoint.com/:w:/r/sites/FundamentalsofProgramming-CCPRGG1LCOM23P/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5e6c8bed-44a9-4add-a947-3c727bf33daa%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1707804185955&web=1
   
 ### CCINCOML Table lecture 
 | Topic | Description | 
-| :---: | :---: |       
-| Part 1 - Programming & Java Programming | Introduction to Basic programming (Variables and Type), Problem-solving phases |
-| Part 2 - Programming Languages | Brief History and Types of Programming Languages|
-| Part 3 - Logic Development: Flowcharts | Symbols, Connections and Rules |     
-| Part 4 - Logic Development: Pseudocode | Language, Keywords and Rules |   
+| :---: | :---: |        
+| Part 1 - Basic Programming & Java Programming | Introduction to Basic programming (Variables and Type), Problem-solving phases |
+| Part 2 - Basic concepts of OOP | Classes and Objects in Java, Compare Procedural , Object-oriented Programming |
+| Part 3 - Logic Development: Flowcharts | Symbols, Connections and Rules |      
+| Part 4 - Logic Development: Pseudocode | Language, Keywords and Rules |    
 | Part 5 - The Number System | Types, Conversions, Basic Operations and Complements |
 | Part 6 - Logic Gates | Types, Expressions, Diagrams, Basic Boolean Operators |
 | Part 7 - Introduction to Python programming language Part 1 | Overview, Basic Syntax, Variables, Basic Operations, Decision Making |
