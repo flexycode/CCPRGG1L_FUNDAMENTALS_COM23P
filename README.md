@@ -1,4 +1,4 @@
-# 💫 CCPRGG1L_FUNDAMENTALS_PROGRAMMING_COM23P      
+# 💫 CCPRGG1L_FUNDAMENTALS_PROGRAMMING_COM23P       
 ### Name: Jay Arre Talosig  
 ### Subject & Section: CCPRGG1L COM23P   
 ### Professor: Jay D. Abaleta         
@@ -10,32 +10,39 @@ This repository contains source code for a Java project that focuses on fundamen
  
 Course Outline: https://nationalueduph.sharepoint.com/:w:/r/sites/FundamentalsofProgramming-CCPRGG1LCOM23P/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5e6c8bed-44a9-4add-a947-3c727bf33daa%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1707804185955&web=1 
   
-### CCINCOML Table lecture 
-| Topic | Description | 
-| :---: | :---: |        
-| Part 1 - Basic Programming & Java Programming | Introduction to Basic programming (Variables and Type), Problem-solving phases |
-| Part 2 - Basic concepts of OOP | Classes and Objects in Java, Compare Procedural , Object-oriented Programming |
-| Part 3 - Types of variables and its scope | Primitive types and String Class, Basic Operators, Class Methods, Variables Scoping |       
-| Part 4 - Logic Development: Pseudocode | Language, Keywords and Rules |     
-| Part 5 - The Number System | Types, Conversions, Basic Operations and Complements |
-| Part 6 - Logic Gates | Types, Expressions, Diagrams, Basic Boolean Operators |
-| Part 7 - Introduction to Python programming language Part 1 | Overview, Basic Syntax, Variables, Basic Operations, Decision Making |
-| Part 7 - Introduction to Python programming language Part 2 | Loops, Lists, Dictionaries, Functions |
+Certainly! Here's the fixed table for you:
+
+### CCPRGG1L Table lecture
+
+| Topic                                   | Description                                                     |
+| :------------------------------------- | :-------------------------------------------------------------- |
+| Part 1 - Introduce Basic Programming    | Introduction to Basic programming Variables and Type             |
+| Part 2 - Java Programming               | Problem-solving phases                                          |
+| Part 3a - Understand the basic concepts of Object-Oriented Programming (OOP) | Compare Procedural and OOP |
+| Part 3b - Learn how to declare and use classes and objects in Java         | Introduction to objects and classes                              |
+| Part 4 - Learn how to implement user-defined methods | Primitive types and String Class, Basic Operators (Arithmetic, Relational, and Logical) |
+| Part 5 - Identify the types of variables and its scope | Class Methods, Variables Scoping |
+| Part 6 - Sequential, conditional, and iteration structure | Sequential Structure |
+| Part 7 - Learn the difference between sequential, conditional, and iteration structure | Conditional Structure |
+| Part 8 - Learn how to use various conditional structures | Sequential vs Conditional Structure |
+| Part 9 - Learn the difference between sequential, conditional, and iteration structure | Sequential vs Conditional Structure |
+| Part 10 - Learn how to use various iteration structures | Sequential vs Conditional Structure |
+| Part 11 - Learn built-in mathematical function in the Java Math Class Library | String and char operations |
+| Part 12 - Learn built-in mathematical function in the Java Math Class Library | Arrays and Array list |
+
 
 - [Introduction](#introduction)
-- [Lesson](#lesson)     
+- [Lesson](#lesson)      
 - [Exercise](#%EF%B8%8Fexercise)
 - [Contributing](#contributing)       
 - [License](#licensee)   
 - [Acknowledgements](#acknowledgements) 
-- [FAQ](#faq)     
+- [FAQ](#faq)      
 - [Changelog](#changelogs)         
 
+# 💻 FUNDAMENTALS OF PROGRAMMING 
 
-
-# FUNDAMENTALS OF PROGRAMMING
-
-### Java Fundamentals 
+### Java Fundamentals  
 
 ### Overview
 
