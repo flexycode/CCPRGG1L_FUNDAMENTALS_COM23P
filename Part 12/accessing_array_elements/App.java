@@ -2,22 +2,22 @@ public class App {
     public static void main(String[] args) {
 
         // Array of Strings
-        String[] myfavefastfood = { "Jollibee", "Mcdonalds", "KFC", "MangInasal",
-                "Chowking" };
+        String[] myfavepointguard = { "LukaDoncic", "JohnWall", "AllenIverson", "KyrieIrving", 
+                "DamianLillard" }; 
 
-        // Access first array element
-        System.out.println(myfavefastfood[0]);
+        // Access first array element 
+        System.out.println(myfavepointguard[0]);
 
         // Access second array element
-        System.out.println(myfavefastfood[1]);
+        System.out.println(myfavepointguard[1]);
 
         // Access third array element
-        System.out.println(myfavefastfood[2]);
+        System.out.println(myfavepointguard[2]);
 
         // Access fourth array element
-        System.out.println(myfavefastfood[3]);
+        System.out.println(myfavepointguard[3]);
 
         // Access last array element
-        System.out.println(myfavefastfood[4]);
+        System.out.println(myfavepointguard[4]);
     }
 }
