@@ -160,7 +160,7 @@ This project is licensed under the MIT License and National University.
 
 
 # 📫 Changelogs     
-## [1.0.0] - 2024-02-13     
+## [1.3.8] - 2024-03-11     
 ### Added
 - Uploaded the Exercise
 - Added breakdown and documentation
@@ -173,7 +173,7 @@ This project is licensed under the MIT License and National University.
 
 ### Fixed
 - Fixed some error in java methods and classes
-- 📫
+- Revised my documentaion
 
 #### [Back to Table of Content](#introduction)
 
