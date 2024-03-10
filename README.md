@@ -164,11 +164,11 @@ This project is licensed under the MIT License and National University.
 ### Added
 - Uploaded the Exercise
 - Added breakdown and documentation
-- Fix some changes
+- Added a Java File for CryptoBank
 
 ### Changed
 - Changed some java source code file
-- 📫
+- Fix some changes
 
 ### Fixed
 - Fixed some error in java methods and classes
