@@ -1,7 +1,9 @@
 # 💫 CCPRGG1L_FUNDAMENTALS_PROGRAMMING_COM23P        
 ### Name: Jay Arre Talosig  
-### Subject & Section: CCPRGG1L COM23P   
-### Professor: Jay D. Abaleta          
+### Subject & Section: CCPRGG1L - COM23P   
+### Professor: Jay D. Abaleta
+### No. of Units: 3.0 Units
+### GPA : 4.00 [Passed](https://www.youtube.com/watch?v=19fUYjhGy0c)
 
 # 📊 Table of Contents
 
